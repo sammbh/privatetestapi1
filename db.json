@@ -5,24 +5,6 @@
       "task_name": "hello task",
       "task_description": "server task",
       "task_duedate": "7/21/2021"
-    },
-    {
-      "id": 2,
-      "task_name": "hello task",
-      "task_description": "server task",
-      "task_duedate": "7/21/2021"
-    },
-    {
-      "id": 3,
-      "task_name": "hello task",
-      "task_description": "server task",
-      "task_duedate": "7/21/2021"
-    },
-    {
-      "id": 4,
-      "task_name": "hello task",
-      "task_description": "server task",
-      "task_duedate": "7/21/2021"
     }
   ],
   "profile": {
