@@ -1,5 +1,5 @@
 {
-  "posts": [
+  "tasks": [
     {
       "id": 1,
       "task_name": "hello task",
@@ -11,7 +11,7 @@
       "task_name": "hello task",
       "task_description": "server task",
       "task_duedate": "7/21/2021"
-    }
+    },
     {
       "id": 3,
       "task_name": "hello task",
